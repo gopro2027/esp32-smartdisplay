@@ -1,4 +1,7 @@
 ### Notice of fork
+
+This specific branch (old-repo) is here specifically to support older code, version 1.0.5 and before.
+
 This will include some small supporting changes to the OAS-Man project. https://github.com/gopro2027/ArduinoAirSuspensionController 
 
 Features:
